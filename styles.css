@@ -88,12 +88,10 @@ input[type=button]:hover{
     margin-top: 35px;
     padding-bottom: 20px;
     overflow: hidden;
-    font-size: 23px;
+    font-size: 17px;
     line-height: 1.5;
     color: brown;
     padding: 10px;
-    
-
 }
 
 
