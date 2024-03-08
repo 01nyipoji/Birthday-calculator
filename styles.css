@@ -3,14 +3,14 @@
 }
 
 body{
-    background-color: brown;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: #f2f2f2;
+    font-family: Poppins;
     margin: 0;
     padding: 0;
 }
 
 .container{
-    background-color: yellow;
+    background-color: #a09f9f;
     min-height: 100px;
     width: 520px;
     margin: 100px auto;
@@ -61,7 +61,7 @@ input[type=text]{
 
 input[type=text]:focus{
     background: white;
-    border: 3px dashed brown;
+    border: 3px dashed orange;
 }
 
 input[type=button]{
@@ -71,14 +71,14 @@ input[type=button]{
     outline: none;
     border: none;
     border-radius: 10px;
-    background-color: rgb(243, 83, 83);
+    background-color: #7a7af0;
     color: white;
     font-size: 16px;
     padding: 14px 16px;
 }
 
 input[type=button]:hover{
-    background-color: brown;
+    background-color: #e6f2ff;
     color: black;
 }
 
@@ -88,9 +88,9 @@ input[type=button]:hover{
     margin-top: 35px;
     padding-bottom: 20px;
     overflow: hidden;
-    font-size: 17px;
+    font-size: 20px;
     line-height: 1.5;
-    color: brown;
+    color: white;
     padding: 10px;
 }
 
