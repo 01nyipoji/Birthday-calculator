@@ -39,7 +39,6 @@ body{
     padding: 5px 20px;
     margin-left: 20px;
     display: inline-block;
-    float: left;
 }
 
 .title{ 
@@ -102,23 +101,6 @@ input[type=button]:hover{
     padding: 10px;
 }
 
-.roboto-thin {
-    font-family: "Roboto", sans-serif;
-    font-weight: 100;
-    font-style: normal;
-  }
-  
-  .roboto-light {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-  }
-  
-  .roboto-regular {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
   
 
 
